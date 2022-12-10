@@ -1,2 +1,4 @@
-<a style="display:none"href="https://jagobengkel.my.id">jago bengkel</a>
+<a style="display:none"href="https://www.jagobengkel.my.id">jago bengkel</a>
+<a style="display:none"href="https://www.fibernet.me">fibernet</a>
 <a style="display:none"href="https://semahospital.kz/site/jago-bengkel.php">Jago Bengkel</a>
+<a style="display:none"href="https://semahospital.kz/site/konfigurasi-vpn-di-mikrotik.php">konfigurasi vpn di mikrotik</a>
