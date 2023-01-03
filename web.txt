@@ -17,3 +17,5 @@
 <a style="display:none"href="https://www.bumbumasak.biz.id">bumbu masak</a>
 <a style="display:none"href="https//www.servicemotor.my.id">service motor</a>
 <a style="display:none"href="https://kodicommunity.my-free.website">home</a>
+<a style="display:none"href="https://t.me/bengkel90">jago bengkel</a>
+<a style="display:none"href="https://facebook.com/barangkaliadaa">JAGO BENGKEL</a>
